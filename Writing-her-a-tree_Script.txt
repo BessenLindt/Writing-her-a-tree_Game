@@ -1,0 +1,32 @@
+|V|=visuel
+|A|=Audio
+|I|=Interaction
+
+
+Phrase original "You are a tree falling in forest but no one's listening"
+
+Révision 1 "You are like a tree falling in a forest but no one's listening"
+Révision 2 "You were like a tree falling in a forest that no one would hear"
+Révision 3 "You were like a tree falling in a forest that no one would listen to"
+Révision 4 "You were like a tree falling in a forest that no one heard"
+Révision 5 "You are like a forest falling in a tree but no one's listening"
+Révision 6 "You are a forest listening to a tree falling"
+Révision 7 "You are a tree listening to a forest falling"
+
+
+I.Ouverture
+|V|Nuit d'été, intérieur, pièce avec fenêtre ouverte. 
+Une personne est à son bureau.
+
+|A|Ambiance sonore : 	léger craquement de parquet 
+			chaise
+			insecte au dehors de la fenêtre
+			très légère brise
+
+
+II.
+|I|Get KeyHit comme si le joueur écrivait
+>>>>>>>>
+	|V|Lent travelling avant analogue à l'écriture. Si n'écrit plus, le travelling s'arrête.
+	|A|La voix commence "You...are...". Entouré d'autres voix sur les mêmes mots. Sur différentes émotions et tons.
+GeyHit = un mot suivi d'un silence forcé. (pour éviter qu'il y ai plein de mot collé si le joueur tape vite
